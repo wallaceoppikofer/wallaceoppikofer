@@ -3,8 +3,11 @@
 Olá, eu sou Wallace 👋
 
 💻 Desenvolvedor Front-End focado em HTML, CSS e JavaScript
+
 🚀 Criando landing pages modernas, responsivas e interfaces web funcionais
+
 🎯 Interessado em desenvolvimento web, experiência do usuário e projetos práticos
+
 📚 Evoluindo constantemente através da construção de aplicações e novos desafios
 
 
@@ -47,7 +50,7 @@ Olá, eu sou Wallace 👋
     alt="GitHub" 
     title="GitHub" 
     width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" 
+    src="https://skillicons.dev/icons?i=github"
 />
 
 <br/>

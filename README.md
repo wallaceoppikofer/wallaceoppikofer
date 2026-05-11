@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, eu sou Wallace 👋
 
-<!--
-**wallaceoppikofer/wallaceoppikofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End focado em HTML, CSS e JavaScript
+🚀 Criando landing pages modernas, responsivas e interfaces web funcionais
+🎯 Interessado em desenvolvimento web, experiência do usuário e projetos práticos
+📚 Evoluindo constantemente através da construção de aplicações e novos desafios
 
-Here are some ideas to get you started:
+🚀 Tecnologias
+HTML5
+CSS3
+JavaScript
+Git & GitHub
+📌 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui você encontrará projetos voltados para desenvolvimento Front-End, landing pages, interfaces responsivas e aplicações criadas para prática e evolução técnica.

@@ -1,6 +1,6 @@
 <p align="center">
   <img src="banner-github.png" />
-</p>
+</p><br>
 
 # Olá, eu sou Wallace 👋
 

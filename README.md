@@ -53,7 +53,4 @@ Olá, eu sou Wallace 👋
 <br/>
 <br/>
 
-
-📌 Projetos
-
 Aqui você encontrará projetos voltados para desenvolvimento Front-End, landing pages, interfaces responsivas e aplicações criadas para prática e evolução técnica.

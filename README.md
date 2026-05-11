@@ -1,6 +1,8 @@
-![Banner](banner-github.png)
+<p align="center">
+  <img src="banner-github.png" />
+</p>
 
-Olá, eu sou Wallace 👋
+# Olá, eu sou Wallace 👋
 
 💻 Desenvolvedor Front-End focado em HTML, CSS e JavaScript
 
@@ -58,7 +60,7 @@ Olá, eu sou Wallace 👋
 
 ## 📊 GitHub Stats
 
-![Wallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceoppikofer&show_icons=true&theme=tokyonight&border_radius=15)
+![Wallace's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wallaceoppikofer&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
 
 Aqui você encontrará projetos voltados para desenvolvimento Front-End, landing pages, 
 

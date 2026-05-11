@@ -1,3 +1,5 @@
+![Banner](banner-github.png)
+
 Olá, eu sou Wallace 👋
 
 💻 Desenvolvedor Front-End focado em HTML, CSS e JavaScript

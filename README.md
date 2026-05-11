@@ -47,7 +47,7 @@ Olá, eu sou Wallace 👋
     alt="GitHub" 
     title="GitHub" 
     width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" 
 />
 
 <br/>

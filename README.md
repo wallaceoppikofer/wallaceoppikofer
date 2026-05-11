@@ -56,6 +56,10 @@ Olá, eu sou Wallace 👋
 <br/>
 <br/>
 
+## 📊 GitHub Stats
+
+![Wallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallaceoppikofer&show_icons=true&theme=tokyonight&border_radius=15)
+
 Aqui você encontrará projetos voltados para desenvolvimento Front-End, landing pages, 
 
 interfaces responsivas e aplicações criadas para prática e evolução técnica.

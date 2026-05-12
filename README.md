@@ -2,7 +2,7 @@
   <img src="./assets/banner-github.png" width="780">
 </p><br>
 
-# Olá, eu sou Wallace 👋
+<h1>Olá, eu sou Wallace 👋</h1>
 
 💻 Desenvolvedor Front-End focado em HTML, CSS e JavaScript
 

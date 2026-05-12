@@ -13,7 +13,7 @@
 📚 Evoluindo constantemente através da construção de aplicações e novos desafios
 
 
-## 🚀 Tecnologias
+ <h2>🚀 Tecnologias</h2>
 
 <img 
     align="left" 
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 ![Wallace's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wallaceoppikofer&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
 
